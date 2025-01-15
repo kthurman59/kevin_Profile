@@ -1,6 +1,6 @@
 # Kevin's Profile Site
 
-This repository hosts the personal profile site for Kevin Thurman, showcasing a professional portfolio, skills, projects, and contact information. Built with Hugo, it serves as a digital representation of my expertise in web development and other technical domains.
+This repository hosts the personal profile site for Kevin Thurman, showcasing a professional portfolio, skills, projects, and contact information. Built to serve as a digital representation of my expertise in web development and other technical domains.
 
 ## Features
 - Professional Portfolio: Showcasing web development projects.
