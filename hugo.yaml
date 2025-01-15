@@ -147,7 +147,6 @@ params:
           url: https://www.github.com/kthurman59
         - icon: fab fa-x-twitter
           url: https://x.com/kevinsthurman
-      customIcons:
         - icon: fa-brands fa-blogger
           url: "https://kevintechstuff.blogspot.com/"
 
