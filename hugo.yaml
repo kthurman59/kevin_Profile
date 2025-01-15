@@ -131,7 +131,7 @@ params:
     title: "Kevin."
     subtitle: "I build things for the web"
     content: "A dedicated software developer with a focus on create modern, scalable well applications. I leverage cutting-edge technologies to deliver seamless, user-friendly solutions that meet both functional and aesthetic goals."
-    image: /images/hero.svg
+    image: /images/hero.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -154,7 +154,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: /images/me1.png
     content: "A dedicated software developer with a focus on create modern, scalable well applications. I leverage cutting-edge technologies to deliver seamless, user-friendly solutions that meet both functional and aesthetic goals."
       
     skills:
@@ -205,13 +205,15 @@ params:
     items:
       - title: Car Rental Showcase
         content: Car Showcase is an innovative project designed to highlight and manage vehicle collections with elegance and efficiency.
-        image: /images/projects/profile.png
+        image: /images/projects/carshowcase.jpg
         featured:
           name: Demo
           link: https://github.com/kthurman59/car_showcase
         badges:
           - "React"
           - "Bootstrap"
+          - "Prisma"
+          - "SQL"
           - "Javascript"
         links:
           - icon: fab fa-github
@@ -225,10 +227,27 @@ params:
           link: https://github.com/kthurman59/netflix_clone
         badges:
           - "React"
+          - "Prisma"
+          - "Oauth"
           - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/kthurman59/netflix_clone
+
+      - title: Agri-Precision
+        content: This is a repository for an in-developement FullStack AI/IoT precision agriculture platform using Python, AI, IoT, Kafka, MySQL.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://github.com/kthurman59/netflix_clone
+        badges:
+          - "Python"
+          - "BASH"
+          - "MySQL"
+          - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/kthurman59/precision-agriculture-platform
 
       #      - title: Hugo Profile V2
         # content: A clean and simple Hugo template for personal portfolio and blog.
