@@ -180,12 +180,7 @@ params:
     items:
       - job: "Software Developer"
         company: "Sequart"
-        companyUrl: "https://sequart.org"
         date: "March 2020 - July 2024"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "http://www.sequart.org"
 
   # Education
   education:
