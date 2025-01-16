@@ -1,7 +1,7 @@
 baseURL: "https://kevinthurman.netlify.app"
 languageCode: "en-us"
 title: "Kevin Thurman's Profile"
-#theme: hugo-profile
+theme: hugo-profile
 
 outputs:
   home:
